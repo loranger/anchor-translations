@@ -17,7 +17,7 @@ return array(
 
 	'slug' => 'Alias ',
 	'slug_explain' => 'Partie d\'URL propre à l\'article, doit contenir des caractères ascii uniquement.',
-	'slug_missing' => 'Veuillez renseigner un Alias, doit contenir des caractères ascii uniquement',
+	'slug_missing' => 'Veuillez renseigner un alias, doit contenir des caractères ascii uniquement',
 	'slug_duplicate' => 'Cet Alias existe déjà',
 	'slug_invalid' => 'L\'Alias doit contenir des lettres uniquement',
 
@@ -33,7 +33,7 @@ return array(
 	'allow_comments' => 'Autoriser les commentaires',
 	'allow_comments_explain' => '',
 
-	'custom_css' => 'CSS personnalisés',
+	'custom_css' => 'CSS personnalisées',
 	'custom_css_explain' => '',
 
 	'custom_js' => 'Script personnalisé',

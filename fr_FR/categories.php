@@ -6,7 +6,7 @@ return array(
 	'categories' => 'Catégories',
 
 	'create_category' => 'Créer une catégorie',
-	'edit_category' => 'Edition de &ldquo;%s&rdquo;',
+	'edit_category' => 'Édition de &ldquo;%s&rdquo;',
 
 	// form fields
 	'title' => 'Titre ',

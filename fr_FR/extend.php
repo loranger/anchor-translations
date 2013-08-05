@@ -2,7 +2,7 @@
 
 return array(
 
-	'extend' => 'Extentions',
+	'extend' => 'Extensions',
 
 	'fields' => 'Champs personnalisés',
 	'fields_desc' => 'Créer des champs additionnels',
@@ -11,11 +11,11 @@ return array(
 	'variables_desc' => 'Créer des métadonnées additionnelles',
 
 	'create_field' => 'Créer un champ',
-	'editing_custom_field' => 'Edition du champ &ldquo;%s&rdquo;',
+	'editing_custom_field' => 'Édition du champ &ldquo;%s&rdquo;',
 	'nofields_desc' => 'Aucun champ pour l\'instant',
 
 	'create_variable' => 'Créer une variable',
-	'editing_variable' => 'Edition de la variable &ldquo;%s&rdquo;',
+	'editing_variable' => 'Édition de la variable &ldquo;%s&rdquo;',
 	'novars_desc' => 'Aucune variable pour l\'instant',
 
 	// form fields
@@ -35,14 +35,14 @@ return array(
 	'label_missing' => 'Veuillez renseigner un intitulé',
 
 	'attribute_type' => 'Type de fichier ',
-	'attribute_type_explain' => 'Liste séparée par une virgule de types de fichiers autorisés, laisser vide empty to accept all.',
+	'attribute_type_explain' => 'Liste séparée par une virgule de types de fichiers autorisés, laisser vide pour les accepter tous.',
 
 	// images
-	'attributes_size_width' => 'Image (largeur maxi.) ',
-	'attributes_size_width_explain' => 'Les images seront retaillées si elles sont plus grandes que la largeur maxi.',
+	'attributes_size_width' => 'Image (largeur max.) ',
+	'attributes_size_width_explain' => 'Les images seront retaillées si elles sont plus grandes que la largeur max.',
 
-	'attributes_size_height' => 'Image (hauteur maxi.) ',
-	'attributes_size_height_explain' => 'Les images seront retaillées si elles sont plus grandes que la hauteur maxi.',
+	'attributes_size_height' => 'Image (hauteur max.) ',
+	'attributes_size_height_explain' => 'Les images seront retaillées si elles sont plus grandes que la hauteur max.',
 
 	// custom vars
 	'name' => 'Nom ',

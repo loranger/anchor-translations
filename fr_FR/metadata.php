@@ -11,11 +11,11 @@ return array(
 	// form fields
 	'sitename' => 'Nom du site ',
 	'sitename_explain' => '',
-	'sitename_missing' => 'Your site needs a name!',
+	'sitename_missing' => 'Votre site a besoin d\'un nom !',
 
 	'sitedescription' => 'Description du site ',
 	'sitedescription_explain' => '',
-	'sitedescription_missing' => 'Your site needs a description!',
+	'sitedescription_missing' => 'Votre site a besoin d\'une description !',
 
 	'homepage' => 'Page d\'accueil ',
 	'homepage_explain' => '',
@@ -33,8 +33,8 @@ return array(
 	'comment_notifications_explain' => '',
 
 	'comment_moderation_keys' => 'Spam (mots interdits) ',
-	'comment_moderation_keys_explain' => 'Liste séparée par une virgule de mots-clé identifiables comme étant du spam.
-		Les commentaires seront automatiquement notifiés comme du spam.',
+	'comment_moderation_keys_explain' => 'Liste séparée par une virgule de mots-clé identifiés comme étant du spam.
+		Les commentaires seront alors automatiquement notifiés comme du spam.',
 
 	'current_theme' => 'Thème actuel ',
 	'current_theme_explain' => '',

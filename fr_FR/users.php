@@ -6,7 +6,7 @@ return array(
 
 	'create_user' => 'Créer un utilisateur',
 	'add_user' => 'Ajour d\'un nouvel utilisateur',
-	'editing_user' => 'Edition du profil &ldquo;%s&rdquo;',
+	'editing_user' => 'Édition du profil &ldquo;%s&rdquo;',
 	'remembered' => 'Je connaîs mon mot de passe',
 	'forgotten_password' => 'Mot de passe oublié ?',
 
@@ -14,7 +14,7 @@ return array(
 	'administrator' => 'Admin',
 	'administrator_explain' => '',
 
-	'editor' => 'Editeur',
+	'editor' => 'Éditeur',
 	'editor_explain' => '',
 
 	'user' => 'Utilisateur',
@@ -35,7 +35,7 @@ return array(
 
 	'username' => 'Nom d\'utilisateur ',
 	'username_explain' => '',
-	'username_missing' => 'Veuille renseigner un nom d\'utilisateur, doit contenir au moins %s caractères',
+	'username_missing' => 'Veuillez renseigner un nom d\'utilisateur (doit contenir au moins %s caractères)',
 
 	'password' => 'Mot de passe ',
 	'password_explain' => '',

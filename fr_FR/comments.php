@@ -4,7 +4,7 @@ return array(
 
 	'comments' => 'Commentaires',
 	'nocomments_desc' => 'Aucun commentaire pour l\'instant.',
-	'editing_comment' => 'Edition du commentaire',
+	'editing_comment' => 'Édition du commentaire',
 	'view_comment' => 'Voir le commentaire',
 
 	// form fields
@@ -25,8 +25,8 @@ return array(
 
 	// messages
 	'created' => 'Votre commentaire a été ajouté', // frontend message (appears on your site!)
-	'updated' => 'Your comment has been updated',
-	'deleted' => 'Your comment has been deleted',
+	'updated' => 'Votre commentaire a été mis à jour',
+	'deleted' => 'Votre commentaire a été supprimé',
 
 	// email notification
 	'notify_subject' => 'Nouveau commentaire',

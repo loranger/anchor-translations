@@ -12,8 +12,8 @@ return array(
 	'save' => 'Sauvegarder',
 	'delete' => 'Supprimer',
 	'update' => 'Mettre à jour',
-	'edit' => 'Editer',
-	'editing' => 'Edition',
+	'edit' => 'Éditer',
+	'editing' => 'Édition',
 	'create' => 'Créer',
 	'created' => 'Créé',
 	'submit' => 'Envoyer',
@@ -42,7 +42,7 @@ return array(
 
 	// roles
 	'administrator' => 'Admin',
-	'editor' => 'Editeur',
+	'editor' => 'Éditeur',
 	'user' => 'Utilisateur',
 
 	'log_in' => 'Connecté',
